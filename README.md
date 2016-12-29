@@ -3,7 +3,7 @@
 
 API Java para solucionar el problema "trip sorter".
 
-[Enunciado del problema trip sorter](Enunciado trip sorter.pdf)
+[Enunciado del problema trip sorter](Trip sorter problem.pdf)
 
 El código fuente está dentro del directorio src organizado por paquetes Java.
 
